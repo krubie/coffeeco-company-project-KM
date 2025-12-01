@@ -17,8 +17,8 @@ DAX, vizualizáció, elemzések (Power BI)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 A projekt által vizsgált üzleti területek/értékek:
 
-Sales Performance
-Product & Order Performance
-Customer & Marketing Analytics
+Sales Performance,
+Product & Order Performance,
+Customer & Marketing Analytics,
 Regional Performance
 
