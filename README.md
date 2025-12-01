@@ -8,10 +8,10 @@ Egy teljes értékesítési és ügyfél-elemző dashboard létrehozása, amely 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Amit én készítettem (és amit használtam hozzá) :
 
-Adatok generálása, adatbázis létrehozása (AI)
-Adattisztítás, rendszerezés SQL-ben (Microsoft SQL Server)
-Importálás, preparálás, ellenőrzés (Power Query)
-Teljes adatmodell felépítése (Power BI)
+Adatok generálása, adatbázis létrehozása (AI),
+Adattisztítás, rendszerezés SQL-ben (Microsoft SQL Server),
+Importálás, preparálás, ellenőrzés (Power Query),
+Teljes adatmodell felépítése (Power BI),
 DAX, vizualizáció, elemzések (Power BI)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
