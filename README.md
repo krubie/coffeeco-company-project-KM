@@ -91,4 +91,9 @@ A kevésbé aktív promóció, illetve a termékekkel kapcsolatos potenciális e
 2. A kampányok nagy arányban az Equipment kategóriára terelték a vásárlókat, amely amúgy is a vállalat legprofitabilisabb termékcsoportja, így a bevétel és a profit egyaránt éves rekordot ért el.
 A kisebb városok visszaesése(Pécs, Miskolc – gyenge promóció) nem befolyásolta jelentősen az összképet.
 
-3. Kiemelkedően magas profitabilitású termékek lettek promóciózva, így a profitabilitásban, és az éves profitban is rekordot döntöttek az eladások.
+<img width="1693" height="442" alt="image" src="https://github.com/user-attachments/assets/10643b04-106c-4740-a476-bcbbef226cd7" />
+
+<img width="715" height="456" alt="image" src="https://github.com/user-attachments/assets/c55cf6ed-5dbd-4ba2-907f-adfca4d9adde" />
+
+
+4. Kiemelkedően magas profitabilitású termékek lettek promóciózva, így a profitabilitásban, és az éves profitban is rekordot döntöttek az eladások.
