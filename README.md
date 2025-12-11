@@ -20,9 +20,10 @@ Az elemzéssel olyan kritikus pontokat, információkat / adatokat találunk, am
 - Regionális összehasonlítás : Az eládások területi bontása, profit, és eladott termékek alapján.
 
 
-Az elemzés megtekintéséhez a következő linken keresztül le lehet tölteni az általam készített power BI dashboardot : __
+Az adattisztításhoz, részben formázáshoz használt általam írt SQL Queryk az alábbi linken érhetők el : __
 
-Az adattisztításhoz, részben formázáshoz használt általam írt SQL Queryk az alábbi linken érhetők el : __  
+Az elemzés megtekintéséhez a következő linken keresztül le lehet tölteni az általam készített power BI dashboardot : [itt](https://github.com/krubie/coffeeco-company-project-KM/blob/main/CoffeecoProject.pbix) 
+
 ( ami nincs benne, ott egy basic select from volt csak és nem mentettem el )
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
