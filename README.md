@@ -11,13 +11,12 @@ Az elemzéssel olyan kritikus pontokat, információkat / adatokat találunk, am
 **A következő kulcsterületekkel foglalkozik az elemzés** :
 
 
-- Sales Trend Analízis : Hisztorikális eladási adatok, trendek vizsgálata, regionális és termékszinten, a profitra (Margin), vásárlási volumenre (Order Count) fókuszálva. 
+- Sales Trend Analízis : Hisztorikális eladási adatok, trendek vizsgálata, regionális és termékszinten, a profitra (Margin) fókuszálva.
 
 - Termék szintű teljesítmény analízis : Legjobban teljesító termékek illetve termékkategóriák időbeli, regionális illetve profitabilitási és trend elemzése.
 
 - Marketing teljesítmény analízis : A legsikeresebb, legprofitabilisebb marketingprogramok feltérképezése, elemzése illetve befolyása az eladásokra, a vásárlói élettartam érték (CLV), illetve regionális marketing profit alapján.
 
-- Regionális összehasonlítás : Az eládások területi bontása, profit, és eladott termékek alapján.
 
 
 Az adattisztításhoz, részben formázáshoz használt általam írt SQL Queryk az alábbi linken érhetők el : [itt](https://github.com/krubie/coffeeco-company-project-KM/blob/main/customers.sql)
